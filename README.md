@@ -1,6 +1,7 @@
 # Elit Electronicts Automation Project
 
 This project automates the testing of the https://ee.ge website’s login, search and add to cart functionality using Selenium and POM (Page Object Model). The framework supports UI automation, and the tests are written in Java using TestNG.
+
 Also project checks status code of Api, andpoint https://reqres.in/api/users?page=2 using RestAssured.
 
 
