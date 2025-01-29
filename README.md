@@ -5,7 +5,7 @@ Also project checks status code of Api, andpoint https://reqres.in/api/users?pag
 
 
 ## Project Structure
-```sh
+```
 src
   /main
     /java  - (Utility classes, configurations)
