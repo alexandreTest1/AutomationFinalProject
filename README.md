@@ -35,9 +35,9 @@ Also project checks status code of Api, andpoint https://reqres.in/api/users?pag
 ## Setup
   
   1.Clone the repository:
-  '''sh
+  """sh
 git clone <repository-url>
-  '''
+  """
   2.Navigate to the project directory:
 cd <project-directory>
   3.Install dependencies:
