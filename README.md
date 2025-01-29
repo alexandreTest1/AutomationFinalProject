@@ -36,7 +36,7 @@ Also project checks status code of Api, andpoint https://reqres.in/api/users?pag
   
   1.Clone the repository:
   
-```
+```sh
 git clone <repository-url>
 ``` 
   
