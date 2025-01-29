@@ -5,8 +5,8 @@ Also project checks status code of Api, andpoint https://reqres.in/api/users?pag
 
 
 ## Project Structure
-
-"src
+```
+src
   /main
     /java  - (Utility classes, configurations)
       /ge.example - Basepage - Contains base test class and test classes.
@@ -22,7 +22,7 @@ Also project checks status code of Api, andpoint https://reqres.in/api/users?pag
       
 /config  - Configuration files, test data
 /reports - Test execution reports"
-
+```
 
 
 ## Prerequisites
@@ -41,9 +41,15 @@ git clone <repository-url>
 ``` 
   
   2.Navigate to the project directory:
+
+  ```sh
 cd <project-directory>
+```
   3.Install dependencies:
+
+  ```sh
 'mvn clean install'
+```
 
 
 ## Running Tests
