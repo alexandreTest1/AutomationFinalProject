@@ -5,7 +5,7 @@ Also project checks status code of Api, andpoint https://reqres.in/api/users?pag
 
 
 ## Project Structure
-```
+```sh
 src
   /main
     /java  - (Utility classes, configurations)
@@ -34,25 +34,24 @@ src
 
 ## Setup
   
-  1.Clone the repository:
-  
+  1.Clone the repository:  
 ```sh
 git clone <repository-url>
 ``` 
   
   2.Navigate to the project directory:
-
   ```sh
 cd <project-directory>
 ```
   3.Install dependencies:
-
   ```sh
-'mvn clean install'
+mvn clean install
 ```
 
 
 ## Running Tests
 
 To run the tests, use the following command:
-'mvn test'
+```sh 
+mvn test
+```
