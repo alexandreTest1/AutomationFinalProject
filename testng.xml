@@ -1,0 +1,18 @@
+<suite name="final-Project">
+
+
+    <listeners>
+        <listener class-name="ge.example.utils.TestListener"/>
+    </listeners>>
+
+
+    <test name="Login Module">
+        <classes>
+            <class name="ge.example.tests.LoginTest"/>
+
+
+        </classes>>
+
+    </test>>
+
+</suite>
